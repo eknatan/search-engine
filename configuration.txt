@@ -1,0 +1,4 @@
+link = https://harrypotter.fandom.com/wiki/Main_Page
+bounded = 1
+max_crawler = 1000
+max_result = 10
